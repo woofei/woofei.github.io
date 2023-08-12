@@ -7,10 +7,10 @@ email: wu.feifei@sz.tsinghua.edu.cn
 description: >
    Engineer
 baseurl: ""
-url: "https://wufeifei.github.io/"
+url: "https://woofei.github.io/"
 github_username:  woofei
-disqus_baseurl: "https://wufeifei.github.io/"
-disqus_shortname: https-wufeifei-github-io
+disqus_baseurl: "https://woofei.github.io/"
+disqus_shortname: https-woofei-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
